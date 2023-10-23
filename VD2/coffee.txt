@@ -1,0 +1,1 @@
+{"Mathew": {"Math": 28, "Science": 18, "Econimics": 15}, "Ritika": {"Math": 19, "Science": 20, "Econimics": 19}, "John": {"Math": 11, "Science": 22, "Econimics": 17}}
